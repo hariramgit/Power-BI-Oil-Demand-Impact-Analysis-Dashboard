@@ -23,9 +23,9 @@ Interactive Elements: Filters for year and month enable users to adjust the view
 
 **Temporal Trends**: The timeline view helps identify critical periods where the demand impact was at its peak, aiding in understanding the pandemic's progression and its economic effects.
 
-![Sales Dashboard Screenshot]([https://github.com/hariramgit/Power-BI-Oil-Demand-Impact-Analysis-Dashboard/blob/main/Screenshot%202024-08-30%20182515.png))
 
-![Sales Dashboard Screenshot]([https://github.com/your-username/sales-dashboard/blob/main/images/dashboard.png](https://github.com/hariramgit/Power-BI-Oil-Demand-Impact-Analysis-Dashboard/blob/main/Screenshot%202024-08-30%20182515.png))
+![Sales Dashboard Screenshot](https://github.com/hariramgit/Power-BI-Oil-Demand-Impact-Analysis-Dashboard/blob/main/Screenshot%202024-08-30%20182515.png)
+
 
 
 
